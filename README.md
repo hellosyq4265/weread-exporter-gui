@@ -1,6 +1,8 @@
 # 微信读书导出工具
 
 支持 Windows GUI 和命令行导出微信读书内容，格式包括 Markdown、EPUB、PDF、TXT，以及 Linux 下的 MOBI。
+本项目是基于weread-exporter进行的二次开发，添加了可视化界面以及一些小功能。
+（作者是个啥也不会的小白，感谢gpt和deepseek对本项目的大力支持lol）
 
 ## Windows GUI
 
